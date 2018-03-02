@@ -3,7 +3,7 @@ Functions:
 
 1.insertList
 
-2.printlist
+2.printList
 
 3.insertAfter
 
